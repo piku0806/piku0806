@@ -1,9 +1,13 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/kautukkundan/Awesome-Profile-README-templates/master/assets/animated-star.gif"
-    width="130"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    width="0" />
+  <img 
+    src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
+    width="120"
   />
 </p>
+
 
 
 
