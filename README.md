@@ -4,7 +4,7 @@
     src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" 
     alt="Hawaii Background" 
     width="100%" 
-    height="200"   <!-- Reduce height here -->
+    height="200"  
     style="object-fit: cover; border-radius:10px;"
   />
 
