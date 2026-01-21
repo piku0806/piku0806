@@ -1,9 +1,10 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"
-    width="120"
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/neural.gif"
+    width="140"
   />
 </p>
+
 
 
 
