@@ -1,7 +1,7 @@
 
 <p align="center">
   <img 
-    src="https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=2000&auto=format&fit=crop"
+    src="https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=1000&auto=format&fit=crop"
     alt="Galaxy Banner"
     width="100%"
   />
