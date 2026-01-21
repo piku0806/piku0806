@@ -1,5 +1,21 @@
 
-[![Screenshot-2026-01-21-at-1-13-57-PM.png](https://i.postimg.cc/WbxMLpHq/Screenshot-2026-01-21-at-1-13-57-PM.png)](https://postimg.cc/ykXJ0KB7)
+<div align="center" style="position: relative; width: 100%; max-width: 100%;">
+  <!-- Full-width uploaded image with reduced height -->
+  <img 
+    src="https://i.postimg.cc/WbxMLpHq/Screenshot-2026-01-21-at-1-13-57-PM.png" 
+    alt="Top Image" 
+    style="width: 100%; height: 200px; object-fit: cover;"
+  />
+
+  <!-- Typing animation below the image -->
+  <h1 style="margin: 10px 0 0 0; line-height:1;">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi,+I+am+Deepika+Pandita+🏖️" 
+      alt="Typing SVG" 
+    />
+  </h1>
+</div>
+
 
 <h1 align="center">
   Hi 👋 
