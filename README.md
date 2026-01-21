@@ -1,10 +1,13 @@
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=I+am+Deepika+Pandita"
+  />
+</h1>
+
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    width="0" />
-  <img 
-    src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
-    width="120"
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/ai.gif"
+    width="100"
   />
 </p>
 
