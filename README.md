@@ -1,10 +1,13 @@
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=2000&auto=format&fit=crop" width="100%" />
+  
+  <h1>
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&vCenter=true&width=700&lines=I+am+Deepika+Pandita"
+    />
+  </h1>
+</div>
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
-</p>
 
 
 <h1 align="center">
