@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  Hi 👋 
+  Hello World 👋 
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=I+am+Deepika+Pandita" 
     alt="Typing SVG" 
