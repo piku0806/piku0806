@@ -1,21 +1,9 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=I+am+Deepika+Pandita"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=🌸+I+am+Deepika+Pandita+🌍+🌿"
+    alt="Typing Name"
   />
 </h1>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/ai.gif"
-    width="100"
-  />
-</p>
-
-
-
-
-
-
 
 <h1 align="center">
   Hi 👋 
