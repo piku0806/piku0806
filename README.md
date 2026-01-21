@@ -1,9 +1,11 @@
-<h1 align="center">
+<p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=🌸+I+am+Deepika+Pandita+🌍+🌿"
-    alt="Typing Name"
+    src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif"
+    width="80"
+    alt="Animated Globe"
   />
-</h1>
+</p>
+
 
 <h1 align="center">
   Hi 👋 
