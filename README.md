@@ -1,6 +1,7 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=40&animation=fadeIn"
+    src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"
+    width="120"
   />
 </p>
 
