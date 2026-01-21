@@ -1,26 +1,5 @@
 
-<p align="center">
-  <a href="https://medium.com/@zohratamjeed/data-jokes-on-the-occasion-of-valentines-day-5edb61c98baf" target="_blank">Click Here</a>
-</p>
-
-<div align="center">
-  <!-- Hawaii background -->
-  <img 
-    src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&h=200&q=80" 
-    alt="Hawaii Background" 
-    width="100%" 
-    style="object-fit:cover; border-radius:10px;"
-  />
-  
-  <!-- Animated typing overlay -->
-  <h1>
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi,+I+am+Deepika+Pandita+🏖️"
-      alt="Typing Name"
-    />
-  </h1>
-</div>
-
+[![Screenshot-2026-01-21-at-1-13-57-PM.png](https://i.postimg.cc/WbxMLpHq/Screenshot-2026-01-21-at-1-13-57-PM.png)](https://postimg.cc/ykXJ0KB7)
 
 <h1 align="center">
   Hi 👋 
