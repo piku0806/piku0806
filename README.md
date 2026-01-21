@@ -1,12 +1,4 @@
 
-<div align="center" style="position: relative; width: 100%; max-width: 100%;">
-  <!-- Full-width uploaded image with reduced height -->
-  <img 
-    src="https://i.postimg.cc/WbxMLpHq/Screenshot-2026-01-21-at-1-13-57-PM.png" 
-    alt="Top Image" 
-    style="width: 100%; height: 200px; object-fit: cover;"
-  />
-
 
 
 <h1 align="center">
