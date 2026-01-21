@@ -1,12 +1,20 @@
-<h1 align="center">
+<div align="center">
+  <!-- Hawaii background -->
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=I+am+Deepika+Pandita"
+    src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" 
+    alt="Hawaii Background" 
+    width="100%" 
+    style="border-radius: 10px;"
   />
-</h1>
-
-<p align="center">
-  🌸 ✿ 🌍 ✿ 🌿
-</p>
+  
+  <!-- Animated typing overlay (simulated by centering below image) -->
+  <h1>
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi,+I+am+Deepika+Pandita+🏖️"
+      alt="Typing Name"
+    />
+  </h1>
+</div>
 
 
 
