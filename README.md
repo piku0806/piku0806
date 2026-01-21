@@ -1,9 +1,9 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/sparkles.svg"
-    width="200"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=40&animation=fadeIn"
   />
 </p>
+
 
 
 
