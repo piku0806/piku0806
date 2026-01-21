@@ -1,9 +1,12 @@
-<p align="center">
+<h1 align="center">
   <img 
-    src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"
-    width="100%"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=I+am+Deepika+Pandita;Full+Stack+AI+Engineer"
   />
-</p>
+</h1>
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&animation=fadeIn"
+/>
 
 
 
