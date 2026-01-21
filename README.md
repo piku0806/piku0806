@@ -7,14 +7,6 @@
     style="width: 100%; height: 200px; object-fit: cover;"
   />
 
-  <!-- Typing animation below the image -->
-  <h1 style="margin: 10px 0 0 0; line-height:1;">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi,+I+am+Deepika+Pandita+🏖️" 
-      alt="Typing SVG" 
-    />
-  </h1>
-</div>
 
 
 <h1 align="center">
