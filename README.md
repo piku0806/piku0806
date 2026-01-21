@@ -1,11 +1,11 @@
 
 <p align="center">
   <img 
-    src="https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=1000&auto=format&fit=crop"
-    alt="Galaxy Banner"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
     width="100%"
   />
 </p>
+
 
 <h1 align="center">
   Hi 👋 
