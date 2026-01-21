@@ -1,12 +1,9 @@
-<h1 align="center">
+<p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=I+am+Deepika+Pandita;Full+Stack+AI+Engineer"
+    src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/sparkles.svg"
+    width="200"
   />
-</h1>
-
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&animation=fadeIn"
-/>
+</p>
 
 
 
